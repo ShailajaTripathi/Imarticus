@@ -1,0 +1,57 @@
+{
+    "Free-Explore" : [
+    {
+        "img":"https://cdn.pegasus.imarticus.org/images/Machine-Learning.png",
+        "name":"Introduction to Machine Learning",
+        "enroll":"1809 Enrollments",
+        "rate":"868 Ratings"
+
+    },
+    {
+        "img":"https://cdn.pegasus.imarticus.org/images/C-Programming.png",
+        "name":"C Programming",
+        "enroll":"1178 Enrollments",
+        "rate":"992 Ratings"
+    },
+    {
+        "img":"https://cdn.pegasus.imarticus.org/images/c++-Program.png",
+        "name":"C++ Programming Online Certification Course",
+        "enroll":"1061 Enrollments",
+        "rate":"838 Ratings"
+    },
+    {
+        "img":"https://cdn.pegasus.imarticus.org/images/Data-Structures-in-C-Language.png",
+        "name":"Data Structures in C",
+        "enroll":"1417 Enrollments",
+        "rate":"879 Ratings"
+    }
+],
+"Pro-Explore" : [
+    {
+        "img":"https://blog.imarticus.org/wp-content/uploads/2019/07/CIBOP.jpg",
+        "name":"Certified Investments Banking Operations...",
+        "enroll":"",
+        "rate":"8901 Ratings"
+
+    },
+    {
+        "img":"https://blog.imarticus.org/wp-content/uploads/2020/12/NMIMS-Featured-image-1.jpg",
+        "name":"PGP In New Age of Banking",
+        "enroll":"",
+        "rate":"3209 Ratings"
+    },
+    {
+        "img":"https://blog.imarticus.org/wp-content/uploads/2020/10/DM-Featured-image.png",
+        "name":"Digital Marketing Program Like NOWHER...",
+        "enroll":"",
+        "rate":"7654 Ratings"
+    },
+    {
+        "img":"https://blog.imarticus.org/wp-content/uploads/2020/11/PGDM-Featured-image.jpg",
+        "name":"Post Graduate Program in Data Analytics",
+        "enroll":"",
+        "rate":"8659 Ratings"
+    }
+]
+}
+
